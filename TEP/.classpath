@@ -2,5 +2,15 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_171"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Library/libs/byte-buddy-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Library/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Library/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Library/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Library/libs/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Library/libs/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Library/libs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Library/libs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Library/client-combined-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Library/client-combined-3.8.1-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

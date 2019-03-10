@@ -1,6 +1,6 @@
 package classAndObject;
 
-public class objectAndClass {
+public class ClassAndObject1 {
 
 	public static void main(String[] args) {
 		human faruq = new human();
