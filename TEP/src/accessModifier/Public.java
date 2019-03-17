@@ -1,11 +1,11 @@
-package AccessModifier;
-
+package accessModifier;
+import variable.*;
 public class Public {
 	
 public static void main(String[] args) {
 		
-	Public com = new Public();
-		//com.chowdhoryFamily(); //public instance method calling by object from other package.
+	Complete com = new Complete();
+		com.chowdhoryFamily(); //public instance method calling by object from other package.
 		                       // since method is public any body can access.
 		//com.MollaFamilly(); // since mollaFamilly method is a default method
 		                      // it is not accessible from other package at all.
