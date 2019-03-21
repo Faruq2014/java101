@@ -19,6 +19,9 @@ public class ClassAndObject6 {
 	safwan.sleep();
 	safwan.walk();
 	//safwan.play();
+	
+	
+	
 	}
 	
 	

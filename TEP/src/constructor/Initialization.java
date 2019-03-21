@@ -58,10 +58,12 @@ public class Initialization {
 		//with your object using instance block is recommended.
 		//in this instance block, we are giving common info about object. 
 		//it will print with every object.
+		
 			{System.out.println("department of inforamation technology");
 			
 			System.out.println("Batch 2017");
 			}
+			
 		 {count++; //in this block we are counting how many object are created.
 		 }
 		 
@@ -73,8 +75,12 @@ public class Initialization {
 			System.out.println();
 			Initialization i3 = new Initialization("selim",333);
 			System.out.println();
+			
+        
+         
 			System.out.println("number of created object is"+" "+count);
 			
 
 		}
+		 
 }

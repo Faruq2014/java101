@@ -1,8 +1,10 @@
 package method;
 
+
 public class Main {
 
 	public static void main(String[] args) {
+		
 		/* why do you have to have main method? why main method has to be static?
 		 * 
 		 * This is necessary because main() is called by the JVM before any objects are made. 

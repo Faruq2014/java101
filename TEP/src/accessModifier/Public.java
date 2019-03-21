@@ -22,7 +22,7 @@ public static void main(String[] args) {
 		pam.mThree(7, 2);
 		
 	} 
-	void mOne(int age, int hour)  {
+	public void mOne(int age, int hour)  {
 		int total= age*hour;
 		System.out.println(total);
 	

@@ -9,7 +9,7 @@ public class Static {
  * 
  */
 	}
-public static void mOne(int age) {
+public static void mOne(int age) {  
 	
 	
 	if(age >=25) {

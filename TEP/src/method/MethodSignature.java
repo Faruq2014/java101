@@ -10,6 +10,8 @@ public static void main(String[] args) {
 	    ms.m3('D', 'N');
 	    ms.m4("method name + parameter = method signature " +"parameter is always local variable");
 	}
+
+
 public void m1(String st, String st1 ){ 
 	
 		System.out.println(st +" is for "+ st1);

@@ -20,12 +20,15 @@ public class MethodCalling {
 			System.out.println("emplname+ hour+ wage+total");   // nothing
 			
 			MethodCalling mc = new MethodCalling();
+			
 	           mc.mOne();  //instance method is calling from a static method.
 	                       // by making reference 
+	          // mc.mTwo(); //non preferable 
 	           
 	           MethodCalling.mTwo(); 
 	         //static method is calling from a static method.
-	           // by using class name. 
+	           // by using class name.
+	          
 	           
 	           
 
