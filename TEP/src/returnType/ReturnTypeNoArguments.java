@@ -13,7 +13,7 @@ public class ReturnTypeNoArguments {
 		System.out.println();
 		
 		double z= rtna.m3();
-		System.out.println("value of m3"+z);
+		System.out.println("value of m3"+" " +z);
 		System.out.println();
 		
 		char a =ReturnTypeNoArguments.m4();
@@ -37,5 +37,6 @@ private float m2(){
 public static char m4(){ 
 	System.out.println("m4 method");
 	return 'f';
+	
 }
 }

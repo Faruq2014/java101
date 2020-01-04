@@ -13,13 +13,15 @@ public class Local {
 	}
 	
 	public void m1(){
-		int age=20;
-	  System.out.println("non static method age" +"  "+ age);
+		int age=35;
+		String name="Faruq";
+	  System.out.println("non static method age" +"  "+ age+" "+ name);
 	  }
 		
 	   static void m2(){	
 		final int age=10;
 	    System.out.println("this is static method age" +"  "+ age);
+		  //System.out.println("non static method age" +"  "+ age+" "+ name);
 
 	}
 

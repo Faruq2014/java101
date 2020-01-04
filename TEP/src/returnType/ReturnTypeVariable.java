@@ -5,7 +5,7 @@ public class ReturnTypeVariable {
 	int a;          //instance variable
 	
 	   int m1( int a){          //local variable
-			System.out.println("method m1");
+			System.out.println("method m1 soccer ball cost 5");
 			return a;     // both variable has same name then priority goes to local
 		}
 		int m2(){ //has no local variable, method is calling instance variable

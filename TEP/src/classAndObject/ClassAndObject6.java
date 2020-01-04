@@ -7,6 +7,7 @@ public class ClassAndObject6 {
 		sayem.eat();
 		sayem.sleep();
 		sayem.walk();
+		
 	System.out.println("*****************************************************");
 	human1 minhaz = new human1("minhaz", "gray", "blue", "white", 6, 90.50);
 	minhaz.eat();
@@ -28,6 +29,7 @@ public class ClassAndObject6 {
 }
 
 class human1{
+	
 	String name;
 	String hair;
 	String eyes;

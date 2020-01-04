@@ -10,6 +10,7 @@ public class ReturnValue {
         sum = (a + b) / 2.0; 
         // return statement below: 
         return sum; 
+        
     } 
     public static void main(String[] args) 
     { 

@@ -60,7 +60,7 @@ public static void analog(){
 
 	else if(temp>=70 && temp <80){System.out.println("fan on");}
 
-	else if(temp>=80 && temp >90){System.out.println("a/c on");}
+	else if(temp>=80 && temp <90){System.out.println("a/c on");}
 
 	else{System.out.println("turn off");}
 

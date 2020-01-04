@@ -7,11 +7,11 @@ public class protected_access_modifier extends Complete{
    
 	public static void main(String[] args) {
 		Complete m = new Complete();
-		m.chowdhoryFamily();
+		m.mollaFamilyArlington();
 		//public instance method calling by object from other package.
         // since method is public any body can access.
 		System.out.println("--------------------------------------------------");
-		Complete.ShaFamilly();
+		Complete.mollaFamillyFallsChurch();
 		/* protected static method, calling by class name.
 	       protected method can not access directly from other package. 
            it could be access by, import package then inheritance by class.

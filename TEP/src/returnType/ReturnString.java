@@ -12,6 +12,8 @@ public class ReturnString {
 		 /*Static method, so access by class name.
 		  *  // creating reference "customer" object to hold the value
 		  */
+		 String c1=ReturnString.fullName("Omar", "Jimeneg");
+		 System.out.println(c1);
 	     System.out.println(customer);
 	     //System.out.println(ReturnString.fullName("Faruq", "Molla")); 
 	     /*
@@ -20,8 +22,12 @@ public class ReturnString {
 	      */
 	     
 	     ReturnString rs = new ReturnString();
+	     
+	     
+	     
 	   String daughter=  rs.fullName("Fabiha", "Anjum", "Fima");
 	   System.out.println(daughter);
+	  
 	   /*Instance method, so access by creating reference.
 		  *  // creating reference "daughter" object to hold the value
 		  */
@@ -39,6 +45,8 @@ public class ReturnString {
 	   
 	   public  String fullName(String first, String middle, String last) // method overloading
 	   {
+		  
+		  
 	      String name;
 	      
 	      name = first + " " + last+ " " + middle;
