@@ -3,7 +3,8 @@ import variable.*;
 public class Public {
 	
 public static void main(String[] args) {
-		
+	Private_access_modifier pac = new Private_access_modifier();
+	
 	Complete com = new Complete();
 		com.mollaFamilyArlington(); //public instance method calling by object from other package.
 		                       // since method is public any body can access.

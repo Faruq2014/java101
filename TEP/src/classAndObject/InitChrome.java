@@ -6,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class ClassAndObject5 {
+public class InitChrome {
 
 	public static void main(String[] args) {
 		initialization init = new initialization();

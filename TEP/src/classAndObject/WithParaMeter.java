@@ -1,6 +1,6 @@
 package classAndObject;
 
-public class ClassAndObject6 {
+public class WithParaMeter {
 
 	public static void main(String[] args) {
 		human1 sayem = new human1("sayem", "blk", "blk", "brown", 5, 80.50);

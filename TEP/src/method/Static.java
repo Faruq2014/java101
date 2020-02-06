@@ -3,7 +3,10 @@ package method;
 public class Static {
 
 	public static void main(String[] args) {
-		Static.mOne(31);
+		//Static.mOne(31);
+		Static.mOne(28);
+		/*Static st = new Static();
+		st.mOne(30);*/
 /*static method are class related, we do not need to create object to access from 
  * static block. 
  * 

@@ -1,6 +1,6 @@
 package classAndObject;
 
-public class ClassAndObject2 {
+public class WithConstructor {
 
 	public static void main(String[] args) {
 	Car camry = new Car("camry", 4, 22000.33);

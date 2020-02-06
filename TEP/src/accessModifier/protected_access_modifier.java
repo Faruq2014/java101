@@ -27,6 +27,7 @@ public class protected_access_modifier extends Complete{
 		pl.mOne(40, 20, "libi");
 		//parameter_list class is in same package(method package). protected method can direct
 		//access it.
+		
 	}
 
 }

@@ -3,7 +3,7 @@ package classAndObject;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class ClassAndObject3 {
+public class Gecko {
 
 	public static void main(String[] args) {
 		

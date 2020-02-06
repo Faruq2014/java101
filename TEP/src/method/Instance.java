@@ -3,12 +3,14 @@ package method;
 public class Instance {
 
 	public static void main(String[] args) {
-		Instance ins= new Instance();
-		ins.mOne(33);
+		//Instance ins= new Instance();
+		//ins.mOne(33);
 		/*Instance method are not class related, we must create reference object to access from
 		 * static area. 
 		 * 
 		 */
+		Instance no = new Instance();
+		no.mOne(20);
 		
 	}
 		public void mOne(int age) {
